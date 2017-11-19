@@ -1,3 +1,4 @@
 Algorithm
 =========
-My code for ACM-ICPC training.
+
+我在ACM校队里学的算法，其中包含图论的大部分算法
